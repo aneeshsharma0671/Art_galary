@@ -1,0 +1,12 @@
+This project is made by:-
+1.Pranati Gupta (IT)
+2.Aneesh Sharma (IT)
+3.Ayushi Gupta (IT)
+
+
+This is a page demostarating a layout of a website for an art galary.
+Here, We have use HTML,CSS and javascript.
+Features:-
+1.Drop down menu for filters.
+2.Image preview.
+3.circular buttons with image etc.
