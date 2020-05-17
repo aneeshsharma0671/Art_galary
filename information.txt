@@ -1,7 +1,7 @@
 This project is made by:-
-1.Pranati Gupta (IT)
-2.Aneesh Sharma (IT)
-3.Ayushi Gupta (IT)
+1.Pranati Gupta (IT)(11912008)
+2.Aneesh Sharma (IT)(11912055)
+3.Ayushi Gupta (IT)(11912074)
 
 
 This is a page demostarating a layout of a website for an art galary.
