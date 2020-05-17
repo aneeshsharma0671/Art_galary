@@ -1,0 +1,8 @@
+commits
+17.may.2020
+1.added folder name ("images") to store all images.
+2.added image in edit button.
+3.removed edit text from the button.
+4.made the edit button circular and created css selector for button.
+
+
